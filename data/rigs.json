@@ -1,0 +1,14 @@
+[
+  {
+    "id": "A",
+    "changed_zone": null,
+    "from_version": null,
+    "starts": "2027-05-01"
+  },
+  {
+    "id": "B",
+    "changed_zone": "西",
+    "from_version": "A",
+    "starts": "2027-05-04"
+  }
+]

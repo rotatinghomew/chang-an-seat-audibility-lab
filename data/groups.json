@@ -1,0 +1,36 @@
+[
+  {
+    "id": "G1",
+    "seats": [
+      "A15",
+      "A16"
+    ],
+    "need": "混合",
+    "assist": true,
+    "wheel": 1,
+    "expires": "2027-05-06T12:00:00"
+  },
+  {
+    "id": "G2",
+    "seats": [
+      "B13",
+      "B14",
+      "B15"
+    ],
+    "need": "讲解",
+    "assist": true,
+    "wheel": 0,
+    "expires": "2027-05-06T11:00:00"
+  },
+  {
+    "id": "G3",
+    "seats": [
+      "C09",
+      "C10"
+    ],
+    "need": "演奏",
+    "assist": false,
+    "wheel": 0,
+    "expires": "2027-05-06T12:00:00"
+  }
+]

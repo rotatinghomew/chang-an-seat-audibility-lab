@@ -1,0 +1,514 @@
+[
+  {
+    "id": "A01",
+    "row": "A",
+    "position": 1,
+    "zone": "东",
+    "wheel": true,
+    "companion": false
+  },
+  {
+    "id": "A02",
+    "row": "A",
+    "position": 2,
+    "zone": "东",
+    "wheel": false,
+    "companion": true
+  },
+  {
+    "id": "A03",
+    "row": "A",
+    "position": 3,
+    "zone": "东",
+    "wheel": false,
+    "companion": false
+  },
+  {
+    "id": "A04",
+    "row": "A",
+    "position": 4,
+    "zone": "东",
+    "wheel": false,
+    "companion": false
+  },
+  {
+    "id": "A05",
+    "row": "A",
+    "position": 5,
+    "zone": "东",
+    "wheel": false,
+    "companion": false
+  },
+  {
+    "id": "A06",
+    "row": "A",
+    "position": 6,
+    "zone": "东",
+    "wheel": false,
+    "companion": false
+  },
+  {
+    "id": "A07",
+    "row": "A",
+    "position": 7,
+    "zone": "东",
+    "wheel": false,
+    "companion": false
+  },
+  {
+    "id": "A08",
+    "row": "A",
+    "position": 8,
+    "zone": "东",
+    "wheel": false,
+    "companion": false
+  },
+  {
+    "id": "A09",
+    "row": "A",
+    "position": 9,
+    "zone": "西",
+    "wheel": false,
+    "companion": false
+  },
+  {
+    "id": "A10",
+    "row": "A",
+    "position": 10,
+    "zone": "西",
+    "wheel": false,
+    "companion": false
+  },
+  {
+    "id": "A11",
+    "row": "A",
+    "position": 11,
+    "zone": "西",
+    "wheel": false,
+    "companion": false
+  },
+  {
+    "id": "A12",
+    "row": "A",
+    "position": 12,
+    "zone": "西",
+    "wheel": false,
+    "companion": false
+  },
+  {
+    "id": "A13",
+    "row": "A",
+    "position": 13,
+    "zone": "西",
+    "wheel": false,
+    "companion": false
+  },
+  {
+    "id": "A14",
+    "row": "A",
+    "position": 14,
+    "zone": "西",
+    "wheel": false,
+    "companion": false
+  },
+  {
+    "id": "A15",
+    "row": "A",
+    "position": 15,
+    "zone": "西",
+    "wheel": false,
+    "companion": true
+  },
+  {
+    "id": "A16",
+    "row": "A",
+    "position": 16,
+    "zone": "西",
+    "wheel": true,
+    "companion": false
+  },
+  {
+    "id": "B01",
+    "row": "B",
+    "position": 1,
+    "zone": "东",
+    "wheel": true,
+    "companion": false
+  },
+  {
+    "id": "B02",
+    "row": "B",
+    "position": 2,
+    "zone": "东",
+    "wheel": false,
+    "companion": true
+  },
+  {
+    "id": "B03",
+    "row": "B",
+    "position": 3,
+    "zone": "东",
+    "wheel": false,
+    "companion": false
+  },
+  {
+    "id": "B04",
+    "row": "B",
+    "position": 4,
+    "zone": "东",
+    "wheel": false,
+    "companion": false
+  },
+  {
+    "id": "B05",
+    "row": "B",
+    "position": 5,
+    "zone": "东",
+    "wheel": false,
+    "companion": false
+  },
+  {
+    "id": "B06",
+    "row": "B",
+    "position": 6,
+    "zone": "东",
+    "wheel": false,
+    "companion": false
+  },
+  {
+    "id": "B07",
+    "row": "B",
+    "position": 7,
+    "zone": "东",
+    "wheel": false,
+    "companion": false
+  },
+  {
+    "id": "B08",
+    "row": "B",
+    "position": 8,
+    "zone": "东",
+    "wheel": false,
+    "companion": false
+  },
+  {
+    "id": "B09",
+    "row": "B",
+    "position": 9,
+    "zone": "西",
+    "wheel": false,
+    "companion": false
+  },
+  {
+    "id": "B10",
+    "row": "B",
+    "position": 10,
+    "zone": "西",
+    "wheel": false,
+    "companion": false
+  },
+  {
+    "id": "B11",
+    "row": "B",
+    "position": 11,
+    "zone": "西",
+    "wheel": false,
+    "companion": false
+  },
+  {
+    "id": "B12",
+    "row": "B",
+    "position": 12,
+    "zone": "西",
+    "wheel": false,
+    "companion": false
+  },
+  {
+    "id": "B13",
+    "row": "B",
+    "position": 13,
+    "zone": "西",
+    "wheel": false,
+    "companion": false
+  },
+  {
+    "id": "B14",
+    "row": "B",
+    "position": 14,
+    "zone": "西",
+    "wheel": false,
+    "companion": false
+  },
+  {
+    "id": "B15",
+    "row": "B",
+    "position": 15,
+    "zone": "西",
+    "wheel": false,
+    "companion": true
+  },
+  {
+    "id": "B16",
+    "row": "B",
+    "position": 16,
+    "zone": "西",
+    "wheel": true,
+    "companion": false
+  },
+  {
+    "id": "C01",
+    "row": "C",
+    "position": 1,
+    "zone": "东",
+    "wheel": true,
+    "companion": false
+  },
+  {
+    "id": "C02",
+    "row": "C",
+    "position": 2,
+    "zone": "东",
+    "wheel": false,
+    "companion": true
+  },
+  {
+    "id": "C03",
+    "row": "C",
+    "position": 3,
+    "zone": "东",
+    "wheel": false,
+    "companion": false
+  },
+  {
+    "id": "C04",
+    "row": "C",
+    "position": 4,
+    "zone": "东",
+    "wheel": false,
+    "companion": false
+  },
+  {
+    "id": "C05",
+    "row": "C",
+    "position": 5,
+    "zone": "东",
+    "wheel": false,
+    "companion": false
+  },
+  {
+    "id": "C06",
+    "row": "C",
+    "position": 6,
+    "zone": "东",
+    "wheel": false,
+    "companion": false
+  },
+  {
+    "id": "C07",
+    "row": "C",
+    "position": 7,
+    "zone": "东",
+    "wheel": false,
+    "companion": false
+  },
+  {
+    "id": "C08",
+    "row": "C",
+    "position": 8,
+    "zone": "东",
+    "wheel": false,
+    "companion": false
+  },
+  {
+    "id": "C09",
+    "row": "C",
+    "position": 9,
+    "zone": "西",
+    "wheel": false,
+    "companion": false
+  },
+  {
+    "id": "C10",
+    "row": "C",
+    "position": 10,
+    "zone": "西",
+    "wheel": false,
+    "companion": false
+  },
+  {
+    "id": "C11",
+    "row": "C",
+    "position": 11,
+    "zone": "西",
+    "wheel": false,
+    "companion": false
+  },
+  {
+    "id": "C12",
+    "row": "C",
+    "position": 12,
+    "zone": "西",
+    "wheel": false,
+    "companion": false
+  },
+  {
+    "id": "C13",
+    "row": "C",
+    "position": 13,
+    "zone": "西",
+    "wheel": false,
+    "companion": false
+  },
+  {
+    "id": "C14",
+    "row": "C",
+    "position": 14,
+    "zone": "西",
+    "wheel": false,
+    "companion": false
+  },
+  {
+    "id": "C15",
+    "row": "C",
+    "position": 15,
+    "zone": "西",
+    "wheel": false,
+    "companion": true
+  },
+  {
+    "id": "C16",
+    "row": "C",
+    "position": 16,
+    "zone": "西",
+    "wheel": true,
+    "companion": false
+  },
+  {
+    "id": "D01",
+    "row": "D",
+    "position": 1,
+    "zone": "东",
+    "wheel": true,
+    "companion": false
+  },
+  {
+    "id": "D02",
+    "row": "D",
+    "position": 2,
+    "zone": "东",
+    "wheel": false,
+    "companion": true
+  },
+  {
+    "id": "D03",
+    "row": "D",
+    "position": 3,
+    "zone": "东",
+    "wheel": false,
+    "companion": false
+  },
+  {
+    "id": "D04",
+    "row": "D",
+    "position": 4,
+    "zone": "东",
+    "wheel": false,
+    "companion": false
+  },
+  {
+    "id": "D05",
+    "row": "D",
+    "position": 5,
+    "zone": "东",
+    "wheel": false,
+    "companion": false
+  },
+  {
+    "id": "D06",
+    "row": "D",
+    "position": 6,
+    "zone": "东",
+    "wheel": false,
+    "companion": false
+  },
+  {
+    "id": "D07",
+    "row": "D",
+    "position": 7,
+    "zone": "东",
+    "wheel": false,
+    "companion": false
+  },
+  {
+    "id": "D08",
+    "row": "D",
+    "position": 8,
+    "zone": "东",
+    "wheel": false,
+    "companion": false
+  },
+  {
+    "id": "D09",
+    "row": "D",
+    "position": 9,
+    "zone": "西",
+    "wheel": false,
+    "companion": false
+  },
+  {
+    "id": "D10",
+    "row": "D",
+    "position": 10,
+    "zone": "西",
+    "wheel": false,
+    "companion": false
+  },
+  {
+    "id": "D11",
+    "row": "D",
+    "position": 11,
+    "zone": "西",
+    "wheel": false,
+    "companion": false
+  },
+  {
+    "id": "D12",
+    "row": "D",
+    "position": 12,
+    "zone": "西",
+    "wheel": false,
+    "companion": false
+  },
+  {
+    "id": "D13",
+    "row": "D",
+    "position": 13,
+    "zone": "西",
+    "wheel": false,
+    "companion": false
+  },
+  {
+    "id": "D14",
+    "row": "D",
+    "position": 14,
+    "zone": "西",
+    "wheel": false,
+    "companion": false
+  },
+  {
+    "id": "D15",
+    "row": "D",
+    "position": 15,
+    "zone": "西",
+    "wheel": false,
+    "companion": true
+  },
+  {
+    "id": "D16",
+    "row": "D",
+    "position": 16,
+    "zone": "西",
+    "wheel": true,
+    "companion": false
+  }
+]

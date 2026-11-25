@@ -1,0 +1,23 @@
+[
+  {
+    "id": "F1",
+    "seat": "A15",
+    "segment": "混合",
+    "rig": "B",
+    "reason": "讲解被盖住"
+  },
+  {
+    "id": "F2",
+    "seat": "C09",
+    "segment": "讲解",
+    "rig": "B",
+    "reason": "接收器无声"
+  },
+  {
+    "id": "F3",
+    "seat": "D03",
+    "segment": "演奏",
+    "rig": "A",
+    "reason": "左侧过响"
+  }
+]

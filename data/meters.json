@@ -1,0 +1,14 @@
+[
+  {
+    "id": "M1",
+    "calibrated": true,
+    "range_low": 30,
+    "range_high": 90
+  },
+  {
+    "id": "M2",
+    "calibrated": false,
+    "range_low": 45,
+    "range_high": 75
+  }
+]

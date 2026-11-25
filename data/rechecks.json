@@ -1,0 +1,20 @@
+[
+  {
+    "id": "C1",
+    "rig": "B",
+    "seat": "A01",
+    "segment": "混合",
+    "sti": 0.46,
+    "assist": false,
+    "seen": "2027-05-06T10:40:00"
+  },
+  {
+    "id": "C2",
+    "rig": "B",
+    "seat": "A03",
+    "segment": "讲解",
+    "sti": 0.72,
+    "assist": true,
+    "seen": "2027-05-06T10:52:00"
+  }
+]

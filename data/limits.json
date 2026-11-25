@@ -1,0 +1,20 @@
+[
+  {
+    "id": "讲解",
+    "sti_min": 0.58,
+    "dba_low": 54,
+    "dba_high": 79
+  },
+  {
+    "id": "演奏",
+    "sti_min": 0.44,
+    "dba_low": 58,
+    "dba_high": 86
+  },
+  {
+    "id": "混合",
+    "sti_min": 0.64,
+    "dba_low": 56,
+    "dba_high": 82
+  }
+]
